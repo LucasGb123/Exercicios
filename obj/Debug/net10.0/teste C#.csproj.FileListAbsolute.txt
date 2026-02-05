@@ -1,0 +1,14 @@
+D:\Usuarios\Lucas\Documents\Projeto DIO C#\teste C#\obj\Debug\net10.0\teste C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Lucas\Documents\Projeto DIO C#\teste C#\obj\Debug\net10.0\teste C#.AssemblyInfoInputs.cache
+D:\Usuarios\Lucas\Documents\Projeto DIO C#\teste C#\obj\Debug\net10.0\teste C#.AssemblyInfo.cs
+D:\Usuarios\Lucas\Documents\Projeto DIO C#\teste C#\obj\Debug\net10.0\teste C#.csproj.CoreCompileInputs.cache
+D:\Usuarios\Lucas\Documents\Projeto DIO C#\teste C#\bin\Debug\net10.0\teste C#.exe
+D:\Usuarios\Lucas\Documents\Projeto DIO C#\teste C#\bin\Debug\net10.0\teste C#.deps.json
+D:\Usuarios\Lucas\Documents\Projeto DIO C#\teste C#\bin\Debug\net10.0\teste C#.runtimeconfig.json
+D:\Usuarios\Lucas\Documents\Projeto DIO C#\teste C#\bin\Debug\net10.0\teste C#.dll
+D:\Usuarios\Lucas\Documents\Projeto DIO C#\teste C#\bin\Debug\net10.0\teste C#.pdb
+D:\Usuarios\Lucas\Documents\Projeto DIO C#\teste C#\obj\Debug\net10.0\teste C#.dll
+D:\Usuarios\Lucas\Documents\Projeto DIO C#\teste C#\obj\Debug\net10.0\refint\teste C#.dll
+D:\Usuarios\Lucas\Documents\Projeto DIO C#\teste C#\obj\Debug\net10.0\teste C#.pdb
+D:\Usuarios\Lucas\Documents\Projeto DIO C#\teste C#\obj\Debug\net10.0\teste C#.genruntimeconfig.cache
+D:\Usuarios\Lucas\Documents\Projeto DIO C#\teste C#\obj\Debug\net10.0\ref\teste C#.dll
